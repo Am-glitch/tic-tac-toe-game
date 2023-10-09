@@ -8,8 +8,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(rgba(0, 0, 0, 4), transparent 1px),
-    linear-gradient(90deg, rgba(0, 0, 0, 4), transparent 1px); 
+    background: #C0C0C0;
     background-size: 30px 30px;
     row-gap: 20px;
 }
